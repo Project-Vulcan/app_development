@@ -16,6 +16,6 @@ export const styles = StyleSheet.create({
 
     inputBox: { backgroundColor: "white", width: "80%", fontSize: 15, padding: 5, paddingVertical: 10, paddingLeft: 15, borderWidth: 0.5, borderRadius: 20, overflow: "hidden"},
 
-    loginButton: { backgroundColor: "#2C64C6", color: "white", textAlign: "center", fontWeight: "bold", width: "80%", fontSize: 15, padding: 5, paddingVertical: 10, paddingLeft: 15, borderWidth: 0.5, borderRadius: 20, overflow: "hidden"}
+    loginButton: { backgroundColor: "#2C64C6", color: "white", textAlign: "center", fontWeight: "bold", width: "80%", fontSize: 15, padding: 5, paddingLeft: 15, marginTop: 10, borderWidth: 0.5, borderRadius: 20, overflow: "hidden"}
 
 })

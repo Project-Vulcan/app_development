@@ -1,4 +1,4 @@
-import { View, Text, TextInput} from "react-native";
+import { View, Text, TextInput, Pressable} from "react-native";
 import { styles } from "./styles"
 
 export default function App() {
